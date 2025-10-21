@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 **Devansh Singh Raghuvanshi**
 
-* GitHub: [github.com/DSR001915](https://github.com/DSR001915/VOIS_AICTE_Oct2025_MinorProject_DevanshSinghRaghuvanshi.git)
+* GitHub: [github.com/DSR001915](https://github.com/DSR001915)
 * LinkedIn: [linkedin.com/in/DEVANSH SINGH RAGHUVANSHI](https://www.linkedin.com/in/devansh-singh-raghuvanshi-30b578231/)
 
 ---
